@@ -1,0 +1,17 @@
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\bin\Debug\net6.0\prj_kit-windows.exe
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\bin\Debug\net6.0\prj_kit-windows.deps.json
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\bin\Debug\net6.0\prj_kit-windows.runtimeconfig.json
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\bin\Debug\net6.0\prj_kit-windows.dll
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\bin\Debug\net6.0\prj_kit-windows.pdb
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.csproj.AssemblyReference.cache
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.AssemblyInfoInputs.cache
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.AssemblyInfo.cs
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.csproj.CoreCompileInputs.cache
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.dll
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\refint\prj_kit-windows.dll
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.pdb
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.genruntimeconfig.cache
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\ref\prj_kit-windows.dll
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit_windows.Properties.Resources.resources
+D:\Projetos VS\prj_kit-windows\prj_kit-windows\obj\Debug\net6.0\prj_kit-windows.csproj.GenerateResource.cache
